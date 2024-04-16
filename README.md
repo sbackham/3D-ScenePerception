@@ -1,4 +1,4 @@
-# 3D Scene Perception using DCNNS for autonomous driving applications
+# 3D Scene Perception using DCNNs for autonomous driving applications
 
 ## Overview
 This project develops advanced techniques for 3D scene perception using a combination of Neural Radiance Fields (NeRFs) and Deep Convolutional Neural Networks (DCNNs). The goal is to enhance capabilities in digital scene reconstruction and object detection, suitable for applications in areas such as autonomous navigation and cultural heritage preservation.
