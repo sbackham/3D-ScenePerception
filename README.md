@@ -29,10 +29,10 @@ jupyter notebook MAX_SIRENA_3D_CNN_BOUNDBOX_ML_P1.ipynb
 ## Results
 The NN_BETA model showcases a balanced approach towards learning both the orientation and dimensions of 3D objects with a configuration optimized for gradual, accurate learning.
 ### Key Takeaways:
-- **With 2 epochs, the model demonstrates quick adaptability to the dataset.**
-- **Processes 2 images per batch ensures more frequent updates of model weights.**
-- **Utilizes 12 bins for orientation allows for a detailed capture of object angles.**
-- **SGD with a low learning rate ensures careful updates to model weights, preventing overfitting and allowing gradual improvement.**
+- With 2 epochs, the model demonstrates quick adaptability to the dataset.
+- Processes 2 images per batch ensures more frequent updates of model weights.
+- Utilizes 12 bins for orientation allows for a detailed capture of object angles.
+- SGD with a low learning rate ensures careful updates to model weights, preventing overfitting and allowing gradual improvement.
 
 
 
