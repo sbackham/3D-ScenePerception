@@ -26,11 +26,17 @@ cd 3D-ScenePerception
 jupyter notebook MAX_SIRENA_3D_CNN_BOUNDBOX_ML_P1.ipynb
 ```
 
+## Results
+The NN_BETA model showcases a balanced approach towards learning both the orientation and dimensions of 3D objects with a configuration optimized for gradual, accurate learning.
+- **Key Takeaways**:
+With 2 epochs, the model demonstrates quick adaptability to the dataset.
+Processes 2 images per batch ensures more frequent updates of model weights.
+Utilizes 12 bins for orientation allows for a detailed capture of object angles.
+SGD with a low learning rate ensures careful updates to model weights, preventing overfitting and allowing gradual improvement.
 
 
 
 
 
 ![AMLChart](https://github.com/sbackham/3D-ScenePerception/assets/91488129/13a18671-438b-4365-b194-524c5bb96b2b)
-![AMLChart](https://github.com/sbackham/3D-ScenePerception/assets/91488129/d45a82a6-80fc-4c5b-9161-8f838542a8f8)
 
